@@ -2,4 +2,4 @@
 
 It's a portfolio!!! Yay!!!
 
-LIVE Demo => 
+LIVE Demo => https://banegerous.github.io/portfolio/
